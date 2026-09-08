@@ -5,11 +5,15 @@ description: >
   Growing Up and Transforming: A Computational Study of the Transition to
   Adulthood and Metamorphosis in Nineteenth- and Twentieth-Century Children's
   Literature (French, Italian, English)
-importance: 2
+importance: 1
 category: work
 ---
 
+_PhD thesis project._
+
 This project aims to study, using computational methods, the representation of the transition from childhood to adulthood in nineteenth- and twentieth-century European children's literature. Metamorphosis is treated as the literary figure par excellence for this transition, as it allows authors to give narrative form to growth, the loss of innocence, and the construction of the subject (Lassén-Seger, 2006). To capture this theme across its different cultural and historical variations, the study draws on a trilingual corpus (French, Italian, English) and combines automatic processing of texts and illustrations. This comparative approach will help highlight both structural commonalities and differences in temporality across these three national traditions.
+
+---
 
 #### References
 

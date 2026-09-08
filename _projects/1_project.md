@@ -2,7 +2,7 @@
 layout: page
 title: IAnahid — Heritage Image Annotator
 description: An application for the visualization, automatic clustering, and correction of automatic indexing of heritage image collections.
-importance: 1
+importance: 2
 category: work
 ---
 
