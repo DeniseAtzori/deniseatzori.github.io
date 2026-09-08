@@ -13,6 +13,12 @@ _PhD thesis project._
 
 This project aims to study, using computational methods, the representation of the transition from childhood to adulthood in nineteenth- and twentieth-century European children's literature. Metamorphosis is treated as the literary figure par excellence for this transition, as it allows authors to give narrative form to growth, the loss of innocence, and the construction of the subject (Lassén-Seger, 2006). To capture this theme across its different cultural and historical variations, the study draws on a trilingual corpus (French, Italian, English) and combines automatic processing of texts and illustrations. This comparative approach will help highlight both structural commonalities and differences in temporality across these three national traditions.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/becoming_subjects_illustration.jpg" title="Illustration of a child's metamorphosis, from a children's book" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ---
 
 #### References
