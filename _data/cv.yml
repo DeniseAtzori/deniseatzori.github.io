@@ -32,6 +32,7 @@ cv:
         end_date: 2024
         grade: "110 cum laude"
         highlights:
+          - "Final grade: 110 cum laude"
           - 'Bachelor''s thesis in computational linguistics and contemporary Italian literature: "Il leone e la gazzella: un''analisi sentimentale delle relazioni eterosessuali nelle storie di Wattpad"'
           - "Supervisors: Alessandro Lenci, Cristina Savettieri"
 
