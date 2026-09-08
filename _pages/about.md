@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computational Literature at the [Laboratoire LATTICE](https://www.lattice.cnrs.fr/) (CNRS / ENS-PSL / Sorbonne Nouvelle). My research interests focus on the application of NLP and computer vision to literary corpora. In particular, my thesis project focuses on the narratological analysis of a corpus of multilingual (French, English, Italian) novels for children and young adults from the 19th and 20th centuries, with the aim of identifying the markers of the transition from childhood to adulthood.
+My research interests focus on the application of NLP and computer vision to literary corpora. In particular, my thesis project focuses on the narratological analysis of a corpus of multilingual (French, English, Italian) novels for children and young adults from the 19th and 20th centuries, with the aim of identifying the markers of the transition from childhood to adulthood.
 
 I am also involved in the development of [IAnahid](https://huggingface.co/spaces/ENC-PSL/IAnahid), an application for the visualization, automatic clustering, and correction of automatic indexing of heritage image collections.
