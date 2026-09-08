@@ -4,7 +4,7 @@ cv:
   email: denise.atzori@chartes.psl.eu
   location: Paris, France
   image: ""
-  summary: PhD student at the Laboratoire LATTICE (CNRS / ENS-PSL / Sorbonne Nouvelle), working on computer vision and NLP methods for historical documents and cultural heritage collections.
+  summary: PhD student at the Laboratoire LATTICE (CNRS / ENS-PSL / Sorbonne Nouvelle), working on NLP methods and computer vision for narratological analysis.
 
   social_networks:
     - network: GitHub
@@ -13,14 +13,49 @@ cv:
       username: denise-atzori1993
 
   sections:
-    Education: []
+    Education:
+      - institution: École nationale des chartes (PSL) & University of Pisa
+        location: Paris, France / Pisa, Italy
+        studyType: Double-Degree Master's Programme in Digital Humanities
+        start_date: 2024
+        end_date: 2026
+        highlights:
+          - 'Master''s thesis in computational literature: "Enfances bourgeoises. Une étude computationnelle sur les représentations de la classe sociale et du genre dans la littérature de jeunesse française (1833-1943)"'
+          - "Supervisors: Thierry Poibeau (CNRS/ENS-PSL), Déborah Lévy-Bertherat (ENS-PSL)"
 
-    Experience: []
+      - institution: Università di Pisa
+        location: Pisa, Italy
+        studyType: Bachelor's Degree in Digital Humanities
+        start_date: 2021
+        end_date: 2024
+        score: "110 cum laude"
+        highlights:
+          - 'Bachelor''s thesis in computational linguistics and contemporary Italian literature: "Il leone e la gazzella: un''analisi sentimentale delle relazioni eterosessuali nelle storie di Wattpad"'
+          - "Supervisors: Alessandro Lenci, Cristina Savettieri"
 
-    Publications: []
+    Skills:
+      - name: Programming Languages
+        icon: fa-solid fa-code
+        keywords: "Python, R, JavaScript, PHP"
+      - name: NLP
+        icon: fa-solid fa-comments
+        keywords: "HuggingFace Transformers, spaCy, Stanza, NLTK, scikit-learn, PyTorch"
+      - name: Computer Vision
+        icon: fa-solid fa-eye
+        keywords: "OpenCV, PyTorch/TensorFlow, Tesseract, Pillow"
 
-    Skills: []
+    Languages:
+      - name: Italian
+        summary: "Native speaker"
+      - name: French
+        summary: "C1"
+      - name: English
+        summary: "B2"
 
-    Languages: []
-
-    Interests: []
+    Interests:
+      - name: Literature
+        icon: fa-solid fa-book
+      - name: Writing
+        icon: fa-solid fa-pen
+      - name: Dancing
+        icon: fa-solid fa-music
