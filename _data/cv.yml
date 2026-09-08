@@ -17,7 +17,7 @@ cv:
       - institution: École nationale des chartes (PSL) & University of Pisa
         location: Paris, France / Pisa, Italy
         area: Digital Humanities
-        studyType: Double-Degree Master's Programme
+        degree: Double-Degree Master's Programme
         start_date: 2024
         end_date: 2026
         highlights:
@@ -27,13 +27,52 @@ cv:
       - institution: Università di Pisa
         location: Pisa, Italy
         area: Digital Humanities
-        studyType: Bachelor's Degree
+        degree: Bachelor's Degree
         start_date: 2021
         end_date: 2024
-        score: "110 cum laude"
+        grade: "110 cum laude"
         highlights:
           - 'Bachelor''s thesis in computational linguistics and contemporary Italian literature: "Il leone e la gazzella: un''analisi sentimentale delle relazioni eterosessuali nelle storie di Wattpad"'
           - "Supervisors: Alessandro Lenci, Cristina Savettieri"
+
+      - institution: Rete Tosca dei centri antiviolenza della Toscana
+        location: Tuscany, Italy
+        area: Anti-Violence Support Work
+        degree: Training Course for Anti-Violence Centre Staff
+        start_date: 2019-09
+        end_date: 2020-10
+        highlights:
+          - "Training course for activists wishing to become support workers at anti-violence centres, as part of the 'TOSCAINAZIONE' project."
+
+    Experience:
+      - company: CNRS — Laboratoire LATTICE
+        position: Intern
+        location: Paris, France
+        start_date: 2026-01
+        end_date: 2026-06
+        summary: "Internship at the LATTICE Laboratory – Langues, Textes, Traitements informatiques et Cognition (UMR 8094)."
+        highlights:
+          - "Adaptation of the Propp-fr model (processing chain for literary texts) to Italian and analysis of literary corpora."
+
+      - company: Casa della donna APS
+        position: Communications and Awareness-Raising Operator, Anti-Violence Centre
+        location: Pisa, Tuscany, Italy
+        start_date: 2021-02
+        end_date: 2025-04
+        summary: "Following a year of community service (December 2019 – January 2021), hired to manage the initial reception of women at the women's shelter and to run the association's administrative office."
+        highlights:
+          - "Helped manage the Anna Cucchi Library (shifts, loans, returns, cataloguing); secretary for the Paola Bora Award for undergraduate and doctoral theses in gender studies (since 2021)."
+          - "Communications officer since 2022: external communications (press releases, website, newsletters, social media) and internal communications (members' mailing list, contacts with local organisations and institutions) from a feminist and inclusive perspective."
+          - "Involved since 2023 in training, awareness-raising, and education on diversity in schools across the province of Pisa."
+
+      - company: CoLing Lab (Computational Linguistics Laboratory), University of Pisa
+        position: Intern
+        location: Pisa, Italy
+        start_date: 2024
+        end_date: 2024
+        summary: "Six-month internship."
+        highlights:
+          - "Web scraping, creation of a literary corpus, and application of NLP techniques."
 
     Skills:
       - name: Programming Languages
