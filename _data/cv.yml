@@ -16,7 +16,8 @@ cv:
     Education:
       - institution: École nationale des chartes (PSL) & University of Pisa
         location: Paris, France / Pisa, Italy
-        studyType: Double-Degree Master's Programme in Digital Humanities
+        area: Digital Humanities
+        studyType: Double-Degree Master's Programme
         start_date: 2024
         end_date: 2026
         highlights:
@@ -25,7 +26,8 @@ cv:
 
       - institution: Università di Pisa
         location: Pisa, Italy
-        studyType: Bachelor's Degree in Digital Humanities
+        area: Digital Humanities
+        studyType: Bachelor's Degree
         start_date: 2021
         end_date: 2024
         score: "110 cum laude"
